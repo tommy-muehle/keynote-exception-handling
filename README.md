@@ -1,6 +1,6 @@
-# keynote-exception-handling
+# keynote-my-coding-standard-explained
 
-Code snippets for my keynote "Exception handling - classic and fancy".
+Code snippets for my keynote ["Exception handling - classic and fancy"](https://speakerdeck.com/tommymuehle/exception-handling-classic-and-fancy).
 
 ## Requirements
 
@@ -10,5 +10,5 @@ Code snippets for my keynote "Exception handling - classic and fancy".
 ## Usage
 
 ```
-highlight -O rtf some-file.php --font-size 28 --style my-personal | pbcopy
+cat some-slide.php | tail -n +2 > highlight.php | highlight -f -O rtf highlight.php --font-size 28 --style my-personal | pbcopy && rm highlight.php
 ```
