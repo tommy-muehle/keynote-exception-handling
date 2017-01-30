@@ -1,4 +1,4 @@
-# keynote-my-coding-standard-explained
+# keynote-exception-handling
 
 Code snippets for my keynote ["Exception handling - classic and fancy"](https://speakerdeck.com/tommymuehle/exception-handling-classic-and-fancy).
 
